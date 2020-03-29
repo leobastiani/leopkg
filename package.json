@@ -1,0 +1,14 @@
+{
+  "name": "leopkg",
+  "version": "0.0.0",
+  "dependencies": {
+    "docopt": "^0.6.2",
+    "mkdirp": "^1.0.3"
+  },
+  "repository": "leobastiani/leopkg",
+  "license": "MIT",
+  "bin": "src/index.js",
+  "files": [
+    "src"
+  ]
+}
