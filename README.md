@@ -8,10 +8,10 @@
 ## Installation
 
 ```
-yarn global add leopkg
+yarn global add https://github.com/leobastiani/leopkg
 ```
 
-> If you're using [npm](https://www.npmjs.com/) you can use: `npm install -g leopkg`.
+> If you're using [npm](https://www.npmjs.com/) you can use: `npm install -g https://github.com/leobastiani/leopkg`.
 
 ## Usage
 
